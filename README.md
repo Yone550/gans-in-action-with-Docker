@@ -12,3 +12,8 @@
 * Chapter 8: [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-8)
 * Chapter 9: [Colab](https://colab.research.google.com/drive/1VYnR504dOUcQsQxxqCeerZcIzhDjk3U4), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-9)
 * Chapter 10: [Colab](https://colab.research.google.com/drive/1bsmaB23bSEuu1zWyPSajDJ_DO3QqlovQ), [Notebook](https://github.com/GANs-in-Action/gans-in-action/tree/master/chapter-10)
+
+### How to use:
+`git clone https://github.com/Yone550/gans-in-action-with-Docker.git`
+`cd gans-in-practice-with-Docker`
+`docker compose up --build`
